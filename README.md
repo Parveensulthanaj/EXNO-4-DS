@@ -24,7 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-<img width="1718" height="647" alt="ds4 1" src="https://github.com/user-attachments/assets/28e9f091-ba19-48f8-8f53-06204508c76a" />
+
 <img width="1855" height="691" alt="ds4 2" src="https://github.com/user-attachments/assets/500f33b1-68ca-4d08-a949-81538f201fb5" />
 <img width="1850" height="789" alt="ds4 3" src="https://github.com/user-attachments/assets/331671b3-f1d9-49dd-98be-4226653b7caa" />
 <img width="1851" height="791" alt="ds4 4" src="https://github.com/user-attachments/assets/74cd52ce-f34c-4159-803d-f23080c4eefc" />
